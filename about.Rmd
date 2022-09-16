@@ -1,0 +1,12 @@
+---
+title: "About"
+description: | 
+
+  
+  This is a prototype from BEACON 2022 conference. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
